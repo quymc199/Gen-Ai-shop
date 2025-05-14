@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Shop Bán Hàng</title>
+</head>
+<body>
+  <h1>Chào mừng đến với Shop của tôi!</h1>
+  <p>Sản phẩm: Balo thời trang chống nước</p>
+  <p>Giá: 299.000đ</p>
+  <a href="https://zalo.me/123456789" target="_blank">Liên hệ đặt mua qua Zalo</a>
+</body>
+</html>
