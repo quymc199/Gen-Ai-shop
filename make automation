@@ -1,13 +1,32 @@
 <!DOCTYPE html>
-<html>
+<html lang="vi">
 <head>
   <meta charset="UTF-8">
-  <title>Shop Bán Hàng</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GenAI Make Automation</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-  <h1>Chào mừng đến với Shop của tôi!</h1>
-  <p>Sản phẩm: Balo thời trang chống nước</p>
-  <p>Giá: 299.000đ</p>
-  <a href="https://zalo.me/123456789" target="_blank">Liên hệ đặt mua qua Zalo</a>
+  <header>
+    <h1>GenAI Make Automation</h1>
+    <p>Giải pháp tự động hóa với Make.com và AI</p>
+    <a href="https://zalo.me/123456789" class="cta-button">Liên hệ Zalo</a>
+  </header>
+  <section class="features">
+    <h2>Tính năng nổi bật</h2>
+    <ul>
+      <li>Tự động hóa quy trình kinh doanh</li>
+      <li>Tích hợp AI vào công việc hàng ngày</li>
+      <li>Dễ dàng sử dụng và triển khai</li>
+    </ul>
+  </section>
+  <section class="pricing">
+    <h2>Bảng giá</h2>
+    <p>Liên hệ để biết thêm chi tiết về giá cả và gói dịch vụ phù hợp.</p>
+  </section>
+  <footer>
+    <p>© 2025 GenAI Make Automation</p>
+  </footer>
 </body>
 </html>
+
